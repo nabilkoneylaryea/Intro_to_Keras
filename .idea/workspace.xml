@@ -1,6 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="973e678f-50d0-4181-9e78-3a5a486a21b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dh0Vzn8epCs6pI4rX5kyA7d2TJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Intro_to_Keras" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="973e678f-50d0-4181-9e78-3a5a486a21b3" name="Default Changelist" comment="" />
+      <created>1592862044958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592862044958</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1188" y="79" key="FileChooserDialogImpl" timestamp="1592886983568">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-1188" y="79" key="FileChooserDialogImpl/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592886983568" />
+    <state x="173" y="79" key="FileChooserDialogImpl/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592879037596" />
+    <state x="551" y="261" key="Github.ShareDialog" timestamp="1592862063904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="551" y="261" key="Github.ShareDialog/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592862063904" />
+    <state x="439" y="68" key="Github.UntrackedFilesDialog" timestamp="1592862069146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="439" y="68" key="Github.UntrackedFilesDialog/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592862069146" />
+    <state width="1345" height="171" key="GridCell.Tab.0.bottom" timestamp="1592864991506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="171" key="GridCell.Tab.0.bottom/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592864991506" />
+    <state width="1345" height="171" key="GridCell.Tab.0.center" timestamp="1592864991506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="171" key="GridCell.Tab.0.center/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592864991506" />
+    <state width="1345" height="171" key="GridCell.Tab.0.left" timestamp="1592864991506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="171" key="GridCell.Tab.0.left/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592864991506" />
+    <state width="1345" height="171" key="GridCell.Tab.0.right" timestamp="1592864991506">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="171" key="GridCell.Tab.0.right/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592864991506" />
+    <state x="-1124" y="0" key="SettingsEditor" timestamp="1592890301537">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-1124" y="0" key="SettingsEditor/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592890301537" />
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592879357224" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1592864547162">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592864547162" />
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592864542893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592864542893" />
   </component>
 </project>
