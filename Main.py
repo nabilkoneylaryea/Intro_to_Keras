@@ -8,6 +8,7 @@ from keras.layers import Dense, Dropout #from layers package what layers we want
 from keras.layers.convolutional import Conv2D, MaxPooling2D
 from keras.optimizers import SGD
 
+#Initializing model
 model = Sequential() #sequential represents the layer we are making and what type of layer it is
 
 #Layers: Convulutional, Max Pooling, Dense (2), Dropout
@@ -16,12 +17,16 @@ max_pool_layer = MaxPooling2D(pool_size=(2, 2))
 dense_layer = Dense(units=1024, activation='softmax')
 dropout_layer = Dropout(rate=0.5)
 
+#Adding layers to model
 model.add(conv_layer)
 model.add(max_pool_layer)
 model.add(dense_layer)
 model.add(dropout_layer)
 
+#Training model
 model.compile(optimizer="SGD", loss=0.01, metrics=['accuracy'])
 model.fit()
+
+#Other stuff
 model.evaluate()
 model.predict()
