@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="973e678f-50d0-4181-9e78-3a5a486a21b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+    <list default="true" id="973e678f-50d0-4181-9e78-3a5a486a21b3" name="Default Changelist" comment="Added Libraries">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +19,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d78d3849-685c-4974-928f-48880c1064ca" />
+  </component>
   <component name="ProjectId" id="1dh0Vzn8epCs6pI4rX5kyA7d2TJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -33,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -74,17 +76,34 @@
       <option name="presentableId" value="Default" />
       <updated>1592862044958</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Libraries">
+      <created>1592890686458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592890686458</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Libraries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Libraries" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="-795" y="226" key="#Notifications" timestamp="1592891277046">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-795" y="226" key="#Notifications/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592891277046" />
     <state x="-1188" y="79" key="FileChooserDialogImpl" timestamp="1592886983568">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
     <state x="-1188" y="79" key="FileChooserDialogImpl/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592886983568" />
     <state x="173" y="79" key="FileChooserDialogImpl/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592879037596" />
-    <state x="551" y="261" key="Github.ShareDialog" timestamp="1592862063904">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="-811" y="261" key="Github.ShareDialog" timestamp="1592891465674">
+      <screen x="-1360" y="0" width="1360" height="728" />
     </state>
+    <state x="-811" y="261" key="Github.ShareDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592891465674" />
     <state x="551" y="261" key="Github.ShareDialog/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592862063904" />
     <state x="439" y="68" key="Github.UntrackedFilesDialog" timestamp="1592862069146">
       <screen x="0" y="0" width="1366" height="728" />
@@ -106,18 +125,20 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="171" key="GridCell.Tab.0.right/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592864991506" />
-    <state x="-1124" y="0" key="SettingsEditor" timestamp="1592890301537">
+    <state x="-1124" y="0" key="SettingsEditor" timestamp="1592891531971">
       <screen x="-1360" y="0" width="1360" height="728" />
     </state>
-    <state x="-1124" y="0" key="SettingsEditor/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592890301537" />
+    <state x="-1124" y="0" key="SettingsEditor/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592891531971" />
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592879357224" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1592864547162">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="-1086" y="96" key="Vcs.Push.Dialog.v2" timestamp="1592891271143">
+      <screen x="-1360" y="0" width="1360" height="728" />
     </state>
+    <state x="-1086" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592891271143" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592864547162" />
-    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592864542893">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="-870" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592891307248">
+      <screen x="-1360" y="0" width="1360" height="728" />
     </state>
+    <state x="-870" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592891307248" />
     <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592864542893" />
   </component>
 </project>
