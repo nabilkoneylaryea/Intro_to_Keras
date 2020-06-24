@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="973e678f-50d0-4181-9e78-3a5a486a21b3" name="Default Changelist" comment="Keras Syntax" />
+    <list default="true" id="973e678f-50d0-4181-9e78-3a5a486a21b3" name="Default Changelist" comment="Added Comments to different stages in the creation of a model in Keras">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,13 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592893898847</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Comments to different stages in the creation of a model in Keras">
+      <created>1592894149902</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592894149902</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Libraries" />
     <MESSAGE value="Keras Syntax" />
-    <option name="LAST_COMMIT_MESSAGE" value="Keras Syntax" />
+    <MESSAGE value="Added Comments to different stages in the creation of a model in Keras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Comments to different stages in the creation of a model in Keras" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-795" y="226" key="#Notifications" timestamp="1592891277046">
@@ -136,15 +147,19 @@
     </state>
     <state x="-1124" y="0" key="SettingsEditor/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592891531971" />
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592879357224" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1592893929081">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1592894156279">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1086" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592891271143" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592893929081" />
-    <state x="-870" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592891307248">
-      <screen x="-1360" y="0" width="1360" height="728" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592894156279" />
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592894110165">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-870" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1592891307248" />
-    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592864542893" />
+    <state x="492" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/-1360.0.1360.728@0.0.1366.728" timestamp="1592894110165" />
+    <state x="-910" y="245" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1593029265779">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-910" y="245" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728/-1360.0.1360.728@-1360.0.1360.728" timestamp="1593029265779" />
   </component>
 </project>
